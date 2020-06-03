@@ -148,7 +148,7 @@
           <h2>WHO IS JOHN DOE?</h2>
           <div class="line mb-5"></div>
           <div class="row">
-            <div class="col my-5">
+            <div class="col mb-5">
               <p>Bear claw marzipan bear claw applicake I love muffin. Lemon drops gummi bears pastry gummi bears sesame snaps I love unerdwear.com. Soufflé cotton candy dessert candy ice cream wafer gummies cheesecake brownie.</p>
               <p>Muffin chupa chups jelly beans sweet pie applicake. Croissant chocolate cake I love pudding. Ice cream I love powder pudding apple pie marshmallow. Cupcake marzipan oat cake bonbon I love candy canes toffee.</p>
             </div>
